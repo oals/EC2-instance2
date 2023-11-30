@@ -4,15 +4,14 @@
 
 # 인스턴스 생성
 
-![인스턴스 생성](https://github.com/oals/EC2-instance/assets/136543676/17055d1e-466d-4fbd-b53b-902291b3bf42)
-
+![인스턴스 생성](https://github.com/oals/EC2-instance2/assets/136543676/b3df3d61-130e-45dc-a7c2-c84ba3547ba5)
 
 
        우분투 서버로 열었습니다.
 
 
 
-![인스턴스 생성 확인](https://github.com/oals/EC2-instance/assets/136543676/f200a84d-bc50-47b2-9300-a27cde0a3eae)
+![인스턴스 생성 확인](https://github.com/oals/EC2-instance2/assets/136543676/f73cbc7f-7ae1-43e6-a642-038f0695187b)
 
 
       왼쪽 목록의 인스턴스 항목에서 생성된 인스턴스를 확인 할 수 있습니다. 
@@ -23,7 +22,7 @@
 # 보안 그룹 설정
 
 
-![보안 그룹](https://github.com/oals/EC2-instance/assets/136543676/fbe915b4-b35b-422e-bda6-9b4f8d253bd7)
+![보안 그룹](https://github.com/oals/EC2-instance2/assets/136543676/34b4dde1-87a2-4e3e-8697-2694e8cd28df)
 
 
 
@@ -34,8 +33,7 @@
 
 
 
-![보안그룹 설정1](https://github.com/oals/EC2-instance/assets/136543676/e4e0998b-bea4-42e3-8758-6a46cb51a546)
-
+![보안그룹 설정1](https://github.com/oals/EC2-instance2/assets/136543676/5b9367fd-784c-4310-8878-fb3c3a54cc66)
 
 
 
@@ -44,7 +42,7 @@
 
 
 
-![보안그룹 설정2](https://github.com/oals/EC2-instance/assets/136543676/c47f9d5d-d370-4a68-b03d-08afb25bb3ea)
+![보안그룹 설정2](https://github.com/oals/EC2-instance2/assets/136543676/38b9474d-0a9e-4e49-b6df-e80985d198fc)
 
 
 
@@ -58,52 +56,41 @@
 # RDS 생성
 
 
-![rds 검색](https://github.com/oals/EC2-instance/assets/136543676/1d942c49-009a-4270-953f-95bf6f8fe2e9)
+![rds 검색](https://github.com/oals/EC2-instance2/assets/136543676/21234639-44de-4688-aa70-f3a65dce5564)
 
-![db 생성1](https://github.com/oals/EC2-instance/assets/136543676/5941ebf7-d200-43f8-b395-1c0a6442a688)
+![db 생성1](https://github.com/oals/EC2-instance2/assets/136543676/a907fdb1-a9ad-43b8-84b9-ac03a843c16e)
 
-![퍼블릭 엑세스](https://github.com/oals/EC2-instance/assets/136543676/de557270-1406-4432-9f54-8e6a036d1107)
+![퍼블릭 엑세스](https://github.com/oals/EC2-instance2/assets/136543676/984f12f3-0674-4afa-9bbe-e1737a521684)
 
-![인코딩 설정](https://github.com/oals/EC2-instance/assets/136543676/7acbe83a-87c2-48f6-9196-624cce831ac3)
-
-
-![생성된 db](https://github.com/oals/EC2-instance/assets/136543676/b9192fb6-0491-42af-b7d5-1f61ebabd242)
-
-![db 보안그룹](https://github.com/oals/EC2-instance/assets/136543676/d765cbc5-eec9-478c-b579-eb6a17aaad76)
-
-![db 보안그룹2](https://github.com/oals/EC2-instance/assets/136543676/6a6d7c8f-a9cc-4472-95c5-2c7b084b0e32)
-
-![db 보안그룹 편집](https://github.com/oals/EC2-instance/assets/136543676/13978ce4-c0ba-40b9-9d1b-52d327aa1b98)
+![인코딩 설정](https://github.com/oals/EC2-instance2/assets/136543676/fc899016-0467-40dc-9f1b-794485f0d46f)
 
 
+![생성된 db](https://github.com/oals/EC2-instance2/assets/136543676/32a11518-9df1-4720-98eb-980ddfba4fe6)
 
-![db 완성 편집](https://github.com/oals/EC2-instance/assets/136543676/7b19a30b-e3cd-486d-80c5-5aa47298f8a1)
+![db 보안그룹](https://github.com/oals/EC2-instance2/assets/136543676/df81fda5-b13b-49d0-ad56-b0bd7519e6a9)
+![db 보안그룹2](https://github.com/oals/EC2-instance2/assets/136543676/67f26d4a-8e9a-4682-ab99-d1ebbecba234)
+![db 보안그룹 편집](https://github.com/oals/EC2-instance2/assets/136543676/ba3b2bc0-025c-4d0a-ab48-c68b71e4dc62)
 
 
-
+![db 완성 편집](https://github.com/oals/EC2-instance2/assets/136543676/91de3021-c26c-4d42-b48c-2f280610dc21)
 
 
 
 # 인스턴스 연결
 
-![인스턴스 연결](https://github.com/oals/EC2-instance/assets/136543676/666fd2dd-c9d9-4574-9ddb-1fcd31b36810)
+![인스턴스 연결](https://github.com/oals/EC2-instance2/assets/136543676/3bbeecc0-45ed-431d-99eb-59bccef1575e)
 
-![update](https://github.com/oals/EC2-instance/assets/136543676/fa5699b2-7ec1-41dd-8121-0cd4857aa283)
+![우분투update](https://github.com/oals/EC2-instance2/assets/136543676/e977f93f-5f88-475a-9a89-d9ebf1915713)
 
 
       sudo apt update
       설치 가능한 패키지 리스트를 최신화하는 명령어 입니다.
 
 
-![jdk 설치](https://github.com/oals/EC2-instance/assets/136543676/6fab29c2-fec9-404d-8826-634d965c6217)
 
+![jdk 설치](https://github.com/oals/EC2-instance2/assets/136543676/6c92f48f-440f-4ec8-9771-ed00ec4550ee)
 
-
-
-
-
-
-![jdk 확인](https://github.com/oals/EC2-instance/assets/136543676/4f96ef0c-8e1e-4e6b-93a5-8a03199baf97)
+![jdk 버전 확인](https://github.com/oals/EC2-instance2/assets/136543676/744c03d7-8a5a-424e-a03e-32d7702404c2)
 
 
       sudo apt install openjdk-17-jre-headless
@@ -113,43 +100,37 @@
 
 
 
-![깃허브 클론](https://github.com/oals/EC2-instance/assets/136543676/89721a51-2f1c-48ff-909a-e1f319604bd5)
+![깃허브 클론](https://github.com/oals/EC2-instance2/assets/136543676/e5933067-0e1d-4d83-bab7-d328c7f3603a)
+![그래들 오류](https://github.com/oals/EC2-instance2/assets/136543676/201ace7b-90a2-4a96-b0df-da673cf9a09b)
 
-![그래들 오류](https://github.com/oals/EC2-instance/assets/136543676/f034eb75-732a-4f0e-99a1-9307927c7ea4)
-
-![권한 변경 후 그래들 빌드](https://github.com/oals/EC2-instance/assets/136543676/105fcc32-6a16-48ae-94b7-97417780aeff)
-
-![그래들 빌드 완료](https://github.com/oals/EC2-instance/assets/136543676/26559d5e-598c-46ff-89c3-082bc27bb8f2)
+![권한 변경 후 그래들 빌드](https://github.com/oals/EC2-instance2/assets/136543676/7c34abba-5543-4af9-bdf6-0016fa3f5c25)
+![그래들 빌드 완료](https://github.com/oals/EC2-instance2/assets/136543676/d61ee623-d975-42af-bb1c-e1e6112a8bb6)
 
 
 
 
 # 마리아 DB 설치
 
-![mariadb 설치](https://github.com/oals/EC2-instance/assets/136543676/305a5a05-f483-4045-a89b-9e07293c6d74)
+![mariadb 설치](https://github.com/oals/EC2-instance2/assets/136543676/f718248e-a4aa-4d62-ba5e-af8c0ae87a0b)
 
-![마리아 db 설치 확인](https://github.com/oals/EC2-instance/assets/136543676/f6d6af57-a916-426b-bf11-21af462a798c)
+![마리아 db 설치 확인](https://github.com/oals/EC2-instance2/assets/136543676/82539a25-66f2-4413-9bea-7fa0359e7b5b)
+![마리아 접속완료](https://github.com/oals/EC2-instance2/assets/136543676/72eaf8b9-2ed3-4644-af4f-84bcb3e9f4b6)
 
-![마리아 접속완료](https://github.com/oals/EC2-instance/assets/136543676/1ad3679e-f2a1-4238-ad64-5d47c3b1b0bf)
-
-![마리아 권한 변경1](https://github.com/oals/EC2-instance/assets/136543676/306c2c33-3270-49c5-b2fa-d168eba79682)
+![마리아 권한 변경1](https://github.com/oals/EC2-instance2/assets/136543676/a77f5b9c-002a-48f3-87cd-0e1989986766)
 
 
-![연결 설정](https://github.com/oals/EC2-instance/assets/136543676/d33ec884-d060-414b-98c2-4162310e23d7)
+![설정](https://github.com/oals/EC2-instance2/assets/136543676/8c05caee-1308-4b7d-87fe-9ceb9f979d47)
 
 # 서버 실행
 
 
 
-![JAR파일 실행](https://github.com/oals/EC2-instance/assets/136543676/83d7f955-e981-4689-8d42-f7db6fc55148)
+![JAR파일 실행](https://github.com/oals/EC2-instance2/assets/136543676/d5f97f4a-00f3-47d5-addf-18ef5dfa4a6b)
 
-![서버 정상 실행](https://github.com/oals/EC2-instance/assets/136543676/e516fb5f-53e2-4f49-b0c7-d0b2039b1302)
+![서버 정상 실행](https://github.com/oals/EC2-instance2/assets/136543676/f941368d-7959-402f-82d0-eb1a99033d83)
+![접속아이피](https://github.com/oals/EC2-instance2/assets/136543676/16537441-2223-44a0-b4bd-1264b27ee167)
 
-![접속아이피](https://github.com/oals/EC2-instance/assets/136543676/18bc4ee9-8d02-4e1b-ac08-790923633806)
-
-
-![실행](https://github.com/oals/EC2-instance/assets/136543676/267e981d-90dc-49cc-9242-4c467de8bebb)
-
+![실행](https://github.com/oals/EC2-instance2/assets/136543676/bd0a528d-8286-4e5e-9384-18f8b7dedafe)
 
 
 
