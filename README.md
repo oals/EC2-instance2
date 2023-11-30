@@ -148,8 +148,12 @@
 ![우분투update](https://github.com/oals/EC2-instance2/assets/136543676/e977f93f-5f88-475a-9a89-d9ebf1915713)
 
 <br>
+
+
       sudo apt update
       설치 가능한 패키지 리스트를 최신화하는 명령어 입니다.
+
+
 
 <br>
 
@@ -158,9 +162,16 @@
 ![jdk 버전 확인](https://github.com/oals/EC2-instance2/assets/136543676/744c03d7-8a5a-424e-a03e-32d7702404c2)
 
 <br>
+
+
+
       sudo apt install openjdk-17-jre-headless
       jdk를 설치하는 명령어 입니다
       위 명령어는 jdk17을 설치하는 명령어 입니다.
+
+
+
+
 
 <br>
 
@@ -169,8 +180,15 @@
 
 
 <br>
+
+
+
        git clone 레포지토리 주소
        실행할 파일을 깃허브에서 받아옵니다.
+
+
+
+
 
 <br>
 
@@ -182,10 +200,17 @@
 
 
 <br>
+
+
+
+
        프로젝트 파일안의 gradle 파일을 찾아준 후 
        ./gradlew build 
 
        하지만 권한을 변경해야 합니다.
+
+
+
 
 
 <br>
@@ -198,11 +223,19 @@
 
 <br>
 
+
+
+
        sudo chmod +x gradlew
        권한 변경 
 
        ./gradlew build 
        그래들 빌드 
+
+
+
+
+
 
 
 <br>
@@ -313,6 +346,8 @@
 
 <br>
 
+       DB 연결 오류 없이 정상 실행
+
 
 <br>
 
@@ -332,6 +367,30 @@
 
 
 ![실행](https://github.com/oals/EC2-instance2/assets/136543676/bd0a528d-8286-4e5e-9384-18f8b7dedafe)
+
+
+
+# 프로젝트를 통해 느낀 점과 소감
+
+
+인생 처음으로 서버 배포를 해봤다.<br>
+서버 배포에 관해 아무런 지식이 없었기 때문에 총 6시간 정도 걸렸다.<br>
+
+1. 처음 RDS를 생성하고 설정할 때 퍼블릭 엑세스를 사용하지 않음으로 설정해둔 것
+2. properties-application 설정을 변경하지 않은 것
+
+<br>
+위 두 상황에서 시간을 많이 보냈지만 서버를 배포해보니 신기하다는 생각이 많이 든다
+
+
+
+
+
+
+
+
+
+
 
 
 
