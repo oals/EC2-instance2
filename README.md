@@ -1,14 +1,13 @@
 
 
-# EC2 인스턴스 서버 배포
+# 시작
 
-asdgasdg
+AWS EC2 인스턴스 서버 배포 + RDS 연결
+
 
 # 목차
 
-<font color="red"> Some green text </font>
-
-*[1. 인스턴스 생성](#인스턴스-생성)*<br><br>
+*[1. 인스턴스 생성](#인스턴스-생성)* <br><br>
 *[2. 인스턴스 보안그룹 설정](#인스턴스-보안그룹-설정)*<br><br>
 *[3. RDS 생성](#rds-생성)*<br><br>
 *[4. RDS 보안 그룹 설정](#rds-보안-그룹-설정)*<br><br>
@@ -131,7 +130,7 @@ asdgasdg
 
 <br>
 
-       생성된 DB의 인바운드 규칙 편집.
+       생성된 DB의 인바운드 규칙 편집
 
 <br>
 
@@ -181,7 +180,7 @@ asdgasdg
 
 
       sudo apt update
-      설치 가능한 패키지 리스트 최신화.
+      설치 가능한 패키지 리스트 최신화
 
 
 
@@ -196,7 +195,7 @@ asdgasdg
 
 
       sudo apt install openjdk-17-jre-headless
-      jdk17 설치.
+      jdk17 설치
 
 
 
@@ -256,10 +255,10 @@ asdgasdg
 
 
        sudo chmod +x gradlew
-       권한 변경. 
+       권한 변경
 
        ./gradlew build 
-       그래들 빌드.
+       그래들 빌드
 
 
 
