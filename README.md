@@ -2,9 +2,11 @@
 
 # EC2 인스턴스 서버 배포
 
+asdgasdg
 
+# 목차
 
-## 목차
+<font color="red"> Some green text </font>
 
 *[1. 인스턴스 생성](#인스턴스-생성)*<br><br>
 *[2. 인스턴스 보안그룹 설정](#인스턴스-보안그룹-설정)*<br><br>
