@@ -11,7 +11,7 @@ AWS EC2 인스턴스 서버 배포 + RDS 연결
 *[2. 인스턴스 보안그룹 설정](#인스턴스-보안그룹-설정)*<br><br>
 *[3. RDS 생성](#rds-생성)*<br><br>
 *[4. RDS 보안 그룹 설정](#rds-보안-그룹-설정)*<br><br>
-*[5. 인스턴스 연결 및 JDK, Gradle 설치](#인스턴스-연결-및-jdk,-gradle-설치)*<br><br>
+*[5. 인스턴스 연결 및 JDK, Gradle 설치](#인스턴스-연결-및-jdk-gradle-설치)*<br><br>
 *[6. 마리아 DB 설치](#마리아-db-설치)*<br><br>
 *[7. 서버 배포](#서버-배포)*<br><br>
 *[8. 실행](#실행)*<br>
@@ -167,7 +167,7 @@ AWS EC2 인스턴스 서버 배포 + RDS 연결
 
 
 
-# 인스턴스 연결 및 JDK, Gradle 설치
+# 인스턴스 연결 및 JDK Gradle 설치
 
 ![인스턴스 연결](https://github.com/oals/EC2-instance2/assets/136543676/3bbeecc0-45ed-431d-99eb-59bccef1575e)
 
