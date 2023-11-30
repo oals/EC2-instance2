@@ -163,7 +163,7 @@
 
 
 
-#  인스턴스 연결 및 JDK, Gradle
+# 인스턴스 연결 및 JDK, Gradle
 
 ![인스턴스 연결](https://github.com/oals/EC2-instance2/assets/136543676/3bbeecc0-45ed-431d-99eb-59bccef1575e)
 
