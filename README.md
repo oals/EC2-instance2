@@ -105,8 +105,45 @@
       위 명령어는 jdk17을 설치하는 명령어 입니다.
 
 
-![깃허브클론](https://github.com/oals/EC2-instance/assets/136543676/ddb0c481-38f4-45e6-8293-8443afa8b485)
 
 
-      깃허브에서 프로젝트를 받아옵니다
+![깃허브 클론](https://github.com/oals/EC2-instance/assets/136543676/89721a51-2f1c-48ff-909a-e1f319604bd5)
+
+![그래들 오류](https://github.com/oals/EC2-instance/assets/136543676/f034eb75-732a-4f0e-99a1-9307927c7ea4)
+
+![권한 변경 후 그래들 빌드](https://github.com/oals/EC2-instance/assets/136543676/105fcc32-6a16-48ae-94b7-97417780aeff)
+
+![그래들 빌드 완료](https://github.com/oals/EC2-instance/assets/136543676/26559d5e-598c-46ff-89c3-082bc27bb8f2)
+
+
+
+
+# 마리아 DB 설치
+
+![mariadb 설치](https://github.com/oals/EC2-instance/assets/136543676/305a5a05-f483-4045-a89b-9e07293c6d74)
+
+![마리아 db 설치 확인](https://github.com/oals/EC2-instance/assets/136543676/f6d6af57-a916-426b-bf11-21af462a798c)
+
+![마리아 접속완료](https://github.com/oals/EC2-instance/assets/136543676/1ad3679e-f2a1-4238-ad64-5d47c3b1b0bf)
+
+![마리아 권한 변경1](https://github.com/oals/EC2-instance/assets/136543676/306c2c33-3270-49c5-b2fa-d168eba79682)
+
+
+
+# 서버 실행
+
+
+
+![JAR파일 실행](https://github.com/oals/EC2-instance/assets/136543676/83d7f955-e981-4689-8d42-f7db6fc55148)
+
+![서버 정상 실행](https://github.com/oals/EC2-instance/assets/136543676/e516fb5f-53e2-4f49-b0c7-d0b2039b1302)
+
+![접속아이피](https://github.com/oals/EC2-instance/assets/136543676/18bc4ee9-8d02-4e1b-ac08-790923633806)
+
+
+
+
+
+
+
 
