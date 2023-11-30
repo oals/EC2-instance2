@@ -1,6 +1,25 @@
 
 
-# EC2 인스턴스 서버 구동
+# EC2 인스턴스 서버 배포
+
+
+<ul>
+       <li>인스턴스 생성</li>
+       <li>인스턴스 보안그룹 설정</li>
+       <li>RDS 생성</li>
+       <li> RDS 보안 그룹 설정</li>
+       <li>인스턴스 연결 및 JDK, Gradle </li>
+       <li>마리아 DB 설치</li>
+       <li>서버 배포</li>
+       <li>실행화면</li>
+
+</ul>
+
+    
+
+
+
+<hr>
 
 # 인스턴스 생성
 
@@ -21,7 +40,7 @@
 <br>
 
 
-# 보안 그룹 설정
+# 인스턴스 보안그룹 설정
 
 
 ![보안 그룹](https://github.com/oals/EC2-instance2/assets/136543676/34b4dde1-87a2-4e3e-8697-2694e8cd28df)
@@ -97,6 +116,12 @@
 
 <br>
 
+
+
+# RDS 보안 그룹 설정
+
+
+
 ![db 보안그룹](https://github.com/oals/EC2-instance2/assets/136543676/df81fda5-b13b-49d0-ad56-b0bd7519e6a9)
 
 <br>
@@ -138,7 +163,7 @@
 
 
 
-# 인스턴스 연결
+#  인스턴스 연결 및 JDK, Gradle
 
 ![인스턴스 연결](https://github.com/oals/EC2-instance2/assets/136543676/3bbeecc0-45ed-431d-99eb-59bccef1575e)
 
@@ -254,7 +279,7 @@
 
 
 
-# 마리아 DB 설치
+#  마리아 DB 설치
 
 ![mariadb 설치](https://github.com/oals/EC2-instance2/assets/136543676/f718248e-a4aa-4d62-ba5e-af8c0ae87a0b)
 
@@ -322,7 +347,7 @@
 
 
 
-# 서버 실행
+# 서버 배포
 
 
 
@@ -364,6 +389,9 @@
 
 
 <br>
+
+
+# 실행 화면
 
 
 ![실행](https://github.com/oals/EC2-instance2/assets/136543676/bd0a528d-8286-4e5e-9384-18f8b7dedafe)
